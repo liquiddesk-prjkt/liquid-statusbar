@@ -41,9 +41,9 @@
     </message>
     <message>
       <location filename="../qml/ControlCenter.qml" line="173"/>
-      <source>Control Center<source/>
-      <translation>مركز التحكم<translation/>
-      </message>
+      <source>Control Center</source>
+      <translation>مركز التحكم</translation>
+    </message>
     <message>
         <location filename="../qml/ControlCenter.qml" line="285"/>
         <source>Do Not Disturb</source>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../qml/ShutdownDialog.qml" line="140"/>
         <source>Shutdown</source>
-        <translatio>إيقاف التشغيل</translation>
+        <translation>إيقاف التشغيل</translation>
     </message>
     <message>
         <location filename="../qml/ShutdownDialog.qml" line="155"/>
